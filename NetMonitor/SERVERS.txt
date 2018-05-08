@@ -1,0 +1,51 @@
+# *** SERVER LIST ***
+# One server per line
+# Format: ip,description
+# i.e.: 8.8.8.8,GoogleDNS Main
+
+8.8.8.8,GoogleDNS 1
+8.8.4.4,GoogleDNS 2
+208.67.220.220,OpenDNS 1
+208.67.222.222,OpenDNS 2
+213.60.205.175,R  1
+213.60.205.174,R 2 PO/OU
+213.60.205.173,R 3 CO/LU
+62.42.230.24,ONO
+4.2.2.1,Level3 1
+4.2.2.2,Level3 2
+4.2.2.3,Level3 3
+4.2.2.4,Level3 4
+4.2.2.5,Level3 5
+4.2.2.6,Level3 6
+212.55.8.132,Euskaltel 1
+212.142.144.66,Euskaltel 2
+212.55.8.133,Euskaltel 3
+217.11.108.234,Iberbanda
+77.88.8.8,Yandex 1
+77.88.8.1,Yandex 2
+216.146.35.35,Dyn 1
+216.146.36.36,Dyn 2
+64.6.64.6,Verisign 1
+64.6.65.6,Verisign 2
+9.9.9.9,Quad9 1
+149.112.112.112,Quad9 2
+194.179.1.100,TESA Minerva 1
+194.179.1.101,TESA Artemis
+213.0.184.68,TESA Minerva 2
+194.224.52.36,TESA Data 1
+194.224.52.37,TESA Data 2
+212.145.4.97,Comunitel 1
+212.145.4.98,Comunitel 2
+109.69.8.51,puntCAT
+212.73.32.3,Vodafone 1
+212.73.32.67,Vodafone 2
+84.91.197.19,Netvisao PT
+1.1.1.1,Cloudfare 1
+1.0.0.1,Cloudfare 2
+8.8.8.1,Error 1
+8.8.8.2,Error 2
+8.8.8.3,Error 3
+8.8.8.4,Error 4
+8.8.8.5,Error 5
+8.8.8.6,Error 6
+8.8.8.7,Error 7
